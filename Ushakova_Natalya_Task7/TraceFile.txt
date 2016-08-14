@@ -1,0 +1,9 @@
+Test output CreateFolder
+ Метод:13.08.2016 19:08:14CreateFolder - Создание папки с путем/fol
+CreateFolder
+Test output CreateFolder
+ Метод:13.08.2016 19:12:05CreateFolder - Создание папки с путем/rr
+Test output CreateFolder
+ Метод:13.08.2016 19:19:11CreateFolder - Создание папки с путем/g
+CreateFolder
+ Метод:13.08.2016 19:19:37CreateFolder - Создание папки с путем/f

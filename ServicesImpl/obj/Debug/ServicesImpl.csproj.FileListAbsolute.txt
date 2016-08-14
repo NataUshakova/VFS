@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\bin\Debug\ServicesImpl.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\bin\Debug\ServicesImpl.pdb
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\obj\Debug\ServicesImpl.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\obj\Debug\ServicesImpl.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\obj\Debug\ServicesImpl.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\bin\Debug\Services.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ushakova_Natalya_Task7\ServicesImpl\bin\Debug\Services.pdb

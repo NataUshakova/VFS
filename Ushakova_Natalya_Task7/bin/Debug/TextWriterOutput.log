@@ -1,0 +1,118 @@
+Ushakova_Natalya_Task7.vshost.exe Error: 0 : Выберете число от 1 до 8
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Error: 0 : Папка уже существует!
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : CreateFolder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:09:12 Метод: CreateFolder создание папки с путем /fold
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:09:23 Метод: CreateFolder создание папки с путем /fold/fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:32 Метод: CreateFolder создание папки с путем /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:32 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:40 Метод: CreateFolder создание папки с путем /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:40 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:45 Метод: CreateFolder создание папки с путем /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:14:45 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:01 Метод: CreateFolder создание папки с путем /fold2/file2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:01 Метод: GetTree получение дерева катологов по пути /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:11 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:45 Метод: Move начальный путь узла /folder/file конечный путь узла /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:45 Метод: Copy Путь копируемого файла /folder/file Путь конечного файла /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:45 Метод: GetTree получение дерева катологов по пути /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:45 Метод: CreateFolder создание папки с путем /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:15:45 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:12 Метод: Move начальный путь узла /fold/file конечный путь узла /fold2/filemove
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:12 Метод: Copy Путь копируемого файла /fold/file Путь конечного файла /fold2/filemove
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:12 Метод: GetTree получение дерева катологов по пути /fold/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:54 Метод: Copy Путь копируемого файла /fold2/file2 Путь конечного файла /fold/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:54 Метод: GetTree получение дерева катологов по пути /fold2/file2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:54 Метод: CreateFolder создание папки с путем /fold/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:16:54 Метод: GetTree получение дерева катологов по пути /fold
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:20 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:48 Метод: Copy Путь копируемого файла /folder/file Путь конечного файла /fold2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:48 Метод: GetTree получение дерева катологов по пути /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:48 Метод: CreateFolder создание папки с путем /fold2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:48 Метод: GetTree получение дерева катологов по пути /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:48 Метод: GetTree получение дерева катологов по пути /fold2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:17:55 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: Move начальный путь узла /fold2/filenew конечный путь узла /folder/neww
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: Copy Путь копируемого файла /fold2/filenew Путь конечного файла /folder/neww
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: GetTree получение дерева катологов по пути /fold2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: CreateFolder создание папки с путем /folder/neww
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: GetTree получение дерева катологов по пути /folder/neww
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: Delete удаление узла с путем /fold2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:33 Метод: GetTree получение дерева катологов по пути /fold2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:18:45 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:19:06 Метод: Delete удаление узла с путем /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:19:06 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 13:19:10 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:47:28 Метод: CreateFolder создание папки с путем /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:47:28 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:47:55 Метод: CreateFolder создание папки с путем /fol
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:47:55 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:02 Метод: CreateFile создание файла с путем /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:02 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:13 Метод: CreateFile создание файла с путем /folder/file/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:13 Метод: GetTree получение дерева катологов по пути /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:25 Метод: Delete удаление узла с путем /rt
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:48:25 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:53:20 Метод: CreateFolder создание папки с путем /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:53:20 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:53:37 Метод: CreateFolder создание папки с путем folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:53:53 Метод: CreateFile создание файла с путем /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:53:53 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:54:02 Метод: CreateFile создание файла с путем /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:54:02 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:54:10 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:56:00 Метод: Move начальный путь узла /folder/file конечный путь узла /folder2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:56:00 Метод: Copy Путь копируемого файла /folder/file Путь конечного файла /folder2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:56:00 Метод: GetTree получение дерева катологов по пути /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:56:00 Метод: CreateFile создание файла с путем /folder2/filenew
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:56:00 Метод: GetTree получение дерева катологов по пути /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:58:55 Метод: Move начальный путь узла /fol конечный путь узла /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:58:55 Метод: Copy Путь копируемого файла /fol Путь конечного файла /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 16:58:55 Метод: GetTree получение дерева катологов по пути /fol
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:00:37 Метод: CreateFolder создание папки с путем /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:00:37 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:00:46 Метод: CreateFile создание файла с путем /foder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:00:46 Метод: GetTree получение дерева катологов по пути /foder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:01:27 Метод: CreateFile создание файла с путем /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:01:27 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:17 Метод: CreateFolder создание папки с путем /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:17 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:46 Метод: Copy Путь копируемого файла /folder/file Путь конечного файла /folder2/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:46 Метод: GetTree получение дерева катологов по пути /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:46 Метод: CreateFile создание файла с путем /folder2/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:46 Метод: GetTree получение дерева катологов по пути /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:02:46 Метод: GetTree получение дерева катологов по пути /folder2/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:03:04 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:04:31 Метод: Delete удаление узла с путем /folder/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:04:31 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:04:37 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: Move начальный путь узла /folder2/file3 конечный путь узла /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: Copy Путь копируемого файла /folder2/file3 Путь конечного файла /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: GetTree получение дерева катологов по пути /folder2/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: CreateFile создание файла с путем /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: GetTree получение дерева катологов по пути /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: Delete удаление узла с путем /folder2/file3
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:04 Метод: GetTree получение дерева катологов по пути /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:10 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:05:26 Метод: GetTree получение дерева катологов по пути /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: Move начальный путь узла /folder/newfile конечный путь узла /folder2/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: Copy Путь копируемого файла /folder/newfile Путь конечного файла /folder2/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: GetTree получение дерева катологов по пути /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: CreateFile создание файла с путем /folder2/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: GetTree получение дерева катологов по пути /folder2
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: GetTree получение дерева катологов по пути /folder2/file
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: Delete удаление узла с путем /folder/newfile
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:01 Метод: GetTree получение дерева катологов по пути /folder
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:06:06 Метод: GetTree получение дерева катологов по пути /
+Ushakova_Natalya_Task7.vshost.exe Information: 0 : 14.08.2016 17:34:55 Метод: CreateFolder создание папки с путем 

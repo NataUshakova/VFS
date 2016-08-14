@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\Serveres\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\Serveres\bin\Debug\Services.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\Serveres\bin\Debug\Services.pdb
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\Serveres\obj\Debug\Services.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\Serveres\obj\Debug\Services.pdb
